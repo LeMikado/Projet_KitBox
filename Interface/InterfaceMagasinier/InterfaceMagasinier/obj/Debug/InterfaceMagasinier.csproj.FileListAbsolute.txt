@@ -1,0 +1,10 @@
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\bin\Debug\InterfaceMagasinier.exe.config
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\bin\Debug\InterfaceMagasinier.exe
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\bin\Debug\InterfaceMagasinier.pdb
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\obj\Debug\InterfaceMagasinier.Properties.Resources.resources
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\obj\Debug\InterfaceMagasinier.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\obj\Debug\InterfaceMagasinier.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\obj\Debug\InterfaceMagasinier.exe
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\obj\Debug\InterfaceMagasinier.pdb
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\obj\Debug\InterfaceMagasinier.FormMagasinier.resources
+C:\Users\Michael\source\repos\InterfaceMagasinier\InterfaceMagasinier\obj\Debug\InterfaceMagasinier.UnfinishedOrders.resources
